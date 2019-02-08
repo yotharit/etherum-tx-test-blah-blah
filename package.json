@@ -1,0 +1,24 @@
+{
+  "name": "etherum-web3-swpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clip1.js",
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.7",
+    "web3": "^1.0.0-beta.35"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yotharit/etherum-tx-test-blah-blah.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yotharit/etherum-tx-test-blah-blah/issues"
+  },
+  "homepage": "https://github.com/yotharit/etherum-tx-test-blah-blah#readme"
+}
